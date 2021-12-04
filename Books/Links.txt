@@ -1,0 +1,3 @@
+1) https://catalog.data.gov/dataset/electric-vehicle-population-data
+2) https://catalog.data.gov/lv/dataset/enhancing-microsimulation-models-for-improved-work-zone-planning-car-following-data-from-n-caeee
+3) https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activity
